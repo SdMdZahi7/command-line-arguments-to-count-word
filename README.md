@@ -31,9 +31,6 @@ print("The word count is",len(word))
 f1.close()
 ```
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/94187572/154531522-28b5bbc9-7bbd-4f85-9247-f2f7e98262c8.png)
-![image](https://user-images.githubusercontent.com/94187572/154531559-90f01d32-3a9e-4ccc-950c-35dcd6c521e0.png)
-
 
 
 ## RESULT:
