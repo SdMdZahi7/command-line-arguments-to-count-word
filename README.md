@@ -24,7 +24,10 @@ using len() count the number of words in the text file.
 In command prompt, initiate python followed by program name and text file name to get the output.
 
 ## PROGRAM:
-```
+~~~
+Developed:Syed Muhammed Zahi
+Registern0:21004029
+
 import sys
 f1=open(sys.argv[1])
 data=f1.read()
@@ -32,7 +35,7 @@ word=data.split()
 print("The word count is",len(word))
 f1.close()
 
-```
+~~~
 
 ### OUTPUT:
 ![output](1.png)
